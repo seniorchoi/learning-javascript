@@ -1,0 +1,15 @@
+Primitive data types
+-string
+-number
+-boolean
+-null
+-undefined
+-symbols (ES6)
+
+Reference Data Types/Objects
+-Arrays
+-Object literals
+-Functions
+-Dates
+-etc
+
