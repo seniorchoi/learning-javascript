@@ -6,6 +6,7 @@ document.getElementById('loan-form').addEventListener('submit', function(e){
 
     // Show loader
     document.getElementById('loading').style.display = 'block';
+    window.scrollTo(0,document.body.scrollHeight);
 
     setTimeout(calculateResults, 3000);
 
@@ -55,12 +56,20 @@ function calculateResults(){
 }
 
 function showError(error){
+
+    // Hide results
+    document.getElementById('results').style.display = 'none';
+
+    // Hide loader
+    document.getElementById('loading').style.display = 'none';
+
+
     // Create a Div
     const errorDiv = document.createElement('div');
 
     // Get Elements
     const card = document.querySelector('.card');
-    const heading = document.querySelector('.heading');
+    // const heading = document.querySelector('.heading');
 
 
     // Add Class
@@ -70,10 +79,11 @@ function showError(error){
     errorDiv.appendChild(document.createTextNode(error));
 
     // Insert Error above Heading
-    card.insertBefore(errorDiv, heading);
+    card.insertBefore(errorDiv, document.getElementById('loading'));
 
     // Clear error after 3 sec
     setTimeout(clearError, 1000);
+
 
 }
 
