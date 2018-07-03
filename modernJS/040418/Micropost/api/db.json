@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "date": "Wed Apr 04 2018",
+      "title": "This is my first diary",
+      "body": "I am finally done with the basic JS course, now will move on to React. I'm almost ready for internship(I think) and I'm so motivated! But I feel dizzy from working too much. I should keep more track of my pace or I will get burnt out.",
+      "id": 1
+    },
+    {
+      "date": "Fri Apr 06 2018",
+      "title": "first day of react",
+      "body": "I've bull ran through the first day of react.. Lots of new materials. I tried to run before I can walk. There is really no end in learning! I am however tremendously proud of this program I've built. So freaking cool. I kind of don't feel entitled to how good I've become, but I guess that'll resolve over time. I will continue building and become a true youngEmpresario.\n\ntoday I went swing dancing. There is a girl which I want to ask her out but I'm shy. Lately my anti social tendencies made me shy. I must reach into my past memories and remember my braveries! And then I had a argument today in Discord channel, as I suggested that we use a certain app. I don't understand why this guy has to be such a no no man, when I'm just trying to improve the team. I think I'm not a good team player, but it's good that I'm getting reference experience. Teamwork sucks.",
+      "id": 2
+    },
+    {
+      "date": "Fri Apr 06 2018",
+      "title": "academic advising",
+      "body": "So today morning I went to see my advisor. Turns out the drop deadline is today. Which I was not prepared for at all. So I will have to go through some loopdi doop process, where I first <ol><li>talk to dissa adviser to get the reduced course load approved,</li><li> then talk to Jill, my academic adviser, again for retroactive withdrawal,</li><li>request leave of absence, or apply for next semester classes by April 18</li><li>also think about new housing</li></ol>  and then all would be good! That was a lot of information in 3 hours to process. I will see her again next week, so hopefully I'll get it all sorted out.\n",
+      "id": 3
+    },
+    {
+      "date": "Sun Apr 08 2018",
+      "title": "0 to 100",
+      "body": "So on Friday, I went to nerf gaming club thinking \"damm, I'm becoming such a nerd\". Then I saw a girl. I've never seen her before there but one thing that stood out to me, she was CUTE. So I begin plotting my pick up scheme.  I haven't talk to girls in months. I'm rusty. I walk up to her and say \"Hi! I'm Seungho what's your name?\" she takes it well \"Brooke, nice to meet you!\" And then I play off like I'm so cool, casually ask her questions time to time. I'm a bit shaky and nervous. Looking back it was awful and I made more mistakes than I should have. She is followed by a nerd herd. My plan was to stand out by not standing out to her. Then I decide it's time to close in, like a hawk descending on an unsuspecting sheep. I decide to leave early and get her number on the way, as I think it's probably the less awkward way of getting her number. She hesitates for a second, but gives in. I text her my name. She texts me back, back and forth a few times, and she asks me out! What the hell! Never had a girl ask me out, it's very rare. But the next day, (saturday) we go on rock festival, moving here and there and attending many bands in many places. We end up with a solid connection, and end up in my room, in my bed. Tension I built up for months of virginity and hard work evaporates over night. I really like her persona and pretty face. She's also very good listener. I look forward hanging out with her. What a weekend.",
+      "id": 4
+    },
+    {
+      "date": "Tue Apr 10 2018",
+      "title": "Tuesday",
+      "body": "So recently I got laid and started learning react.. I am feeling pretty good about my life now! Although it isn't exactly ideal, it's way better than where I was 2 months ago. I went to talk to a psychiatrist the other day, and she was a trainee so I just talk about she listened. But I guess talking about shit makes you feel good. Although it was unpleasant to bring back sad memories, it felt good to let it out. On a side note, I feel like I may be losing me perfect 10/10 vision. Might be wrong but I should take care of them better. Now back to learning!",
+      "id": 5
+    },
+    {
+      "date": "Thu Apr 12 2018",
+      "title": "marching on",
+      "body": "I had a ciggy which I feel guilty (half a ciggy) and I had fast food at late night 2 nights in a row which made me feel shitty. These factors made me less efficient in my learning schedule, but also my eyesight got bit worse, so I should take longer breaks off the computer screen. Instead, I should engage more in outdoor activity, and listen to audiobooks. Also, as I'm watching Netflix show called 'trophy' I realized how meaningless everything other forms of power is when facing better technology. And I feel like people can never get along as everyone has a different point of view. So if you don't wanna get fucked by someone else, either attract smart people or become smarter than others. My IQ is quite high up the charts so I believe I have a good chance if I tried hard to succeed in terms of finance. Thinking deep tho, is it the curiosity for exploration? What brings power? Money is definitely a big part of it.",
+      "id": 6
+    }
+  ]
+}

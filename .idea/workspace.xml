@@ -2,34 +2,194 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f23a9ea4-b740-47bc-9f1d-de56ccee4ee6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/arrowFunctions/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/arrowFunctions/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/asyncAwait/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/asyncAwait/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/easyHTTP3/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/easyHTTP3/easyhttp3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/easyHTTP3/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/fetchWapi/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/fetchWapi/easyhttp2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/032918/fetchWapi/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/GithubFinder/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/GithubFinder/github.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/GithubFinder/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/GithubFinder/ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/weatherJS/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/weatherJS/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/weatherJS/storage.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/weatherJS/ui.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033018/weatherJS/weather.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/errorCatch/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/errorCatch/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/reg2/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/reg2/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/regExProj/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/regExProj/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/regExpressions/app.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/033118/regExpressions/index.html" />
-      <change beforePath="$PROJECT_DIR$/032918/FetchAPI/app.js" afterPath="$PROJECT_DIR$/032918/FetchAPI/app.js" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/LICENSE.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/src/components/search_bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/src/components/video_detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/src/components/video_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/src/components/video_list_item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/test/components/app_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/test/test_helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040518/ReduxSimpleStarter/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040618/ReduxSimpleStarter-master/src/containers/book-detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040618/ReduxSimpleStarter-master/src/containers/book-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040618/ReduxSimpleStarter-master/src/reducers/reducer_active_book.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040618/ReduxSimpleStarter-master/src/reducers/reducer_books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/LICENSE.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/src/components/video_button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/src/components/video_detail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/test/components/app_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/test/test_helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/040718/ReduxSimpleStarter/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/containers/search_bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/containers/weather_list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/reducers/reducer_weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/components/posts_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041318/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041318/thisTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/LICENSE.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/google_map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/reducer_price.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/test/components/app_test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/test/test_helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/.idea/modernJS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/040618/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modernJS/040618/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/arrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/dataTypes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/datatypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/dateTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/if.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/objectLiterals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/scopes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/strings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/templateLiterals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/typeConversion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032018/windowObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032118/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032118/docObj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032118/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032118/traverse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/DOMproject/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/DOMproject/appp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/DOMproject/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/bubble.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/createElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032218/localStorage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/.idea/032318.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/DOMproject/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/DOMproject/appp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/DOMproject/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/DOMproject/tutorapp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/loanCalculator/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/loanCalculator/img/dodge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/loanCalculator/img/giphy.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/loanCalculator/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/loanCalculator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032318/loanCalculator/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/EvilNumberGuesser/EvilNumberGuesser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/EvilNumberGuesser/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/EvilNumberGuesser/bitcoin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/NumberGuesser/NumberGuesser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/NumberGuesser/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/OOP/OOP1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/OOP/OOP2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/OOP/OOP3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032518/OOP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/booklist/app2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/booklist/es6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/booklist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/objectCreate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/prototype.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032618/subClass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/AjaxJson/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/AjaxJson/customer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/AjaxJson/customers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/AjaxJson/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/dataFromAPI/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/dataFromAPI/imdb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/dataFromAPI/imdbapp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/dataFromAPI/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032718/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/FetchAPI/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/FetchAPI/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/FetchAPI/post.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/FetchAPI/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/arrowFunctions/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/arrowFunctions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/asyncAwait/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/asyncAwait/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/easyHTTP/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/easyHTTP/easyhttp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/easyHTTP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/easyHTTP3/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/easyHTTP3/easyhttp3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/easyHTTP3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/fetchWapi/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/fetchWapi/easyhttp2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/fetchWapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/032918/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/GithubFinder/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/GithubFinder/github.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/GithubFinder/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/GithubFinder/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/weatherJS/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/weatherJS/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/weatherJS/storage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/weatherJS/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033018/weatherJS/weather.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/Destructuring/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/Destructuring/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/errorCatch/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/errorCatch/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/iteratorGenerator/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/iteratorGenerator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/profileScroller/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/profileScroller/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/reg2/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/reg2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/regExProj/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/regExProj/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/regExpressions/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/033118/regExpressions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/040218/modulePattern/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/040218/modulePattern/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/040218/singletonPattern/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/040218/singletonPattern/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,21 +199,89 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/033118/regExProj/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="search_bar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="43" column="0" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="43" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="405">
+              <caret line="30" column="45" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="45" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="price_chart.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/app.js" />
+        <option value="$PROJECT_DIR$/041218/ReduxSimpleStarter-master/src/components/app.js" />
+        <option value="$PROJECT_DIR$/041218/ReduxSimpleStarter-master/src/components/posts_index.js" />
+        <option value="$PROJECT_DIR$/041218/ReduxSimpleStarter-master/src/routes.js" />
+        <option value="$PROJECT_DIR$/041218/ReduxSimpleStarter-master/src/index.js" />
+        <option value="$PROJECT_DIR$/041218/ReduxSimpleStarter-master/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/041318/index.html" />
+        <option value="$PROJECT_DIR$/041318/app.js" />
+        <option value="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/containers/search_bar.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_list.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/index.html" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/navbar.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/reducer_price.js" />
+        <option value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -61,47 +289,100 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/040418/ReduxSimpleStarter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/040518/ReduxSimpleStarter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/040618/ReduxSimpleStarter-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/040718/ReduxSimpleStarter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/modernJS/040418/Micropost/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/040418/ReduxSimpleStarter/package.json" />
+      <path value="$PROJECT_DIR$/040518/ReduxSimpleStarter/package.json" />
+      <path value="$PROJECT_DIR$/040618/ReduxSimpleStarter-master/package.json" />
+      <path value="$PROJECT_DIR$/040718/ReduxSimpleStarter/package.json" />
+      <path value="$PROJECT_DIR$/041018/ReduxSimpleStarter-master/package.json" />
+      <path value="$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/package.json" />
+      <path value="$PROJECT_DIR$/041618/ReduxSimpleStarter-master/package.json" />
+      <path value="$PROJECT_DIR$/modernJS/040418/Micropost/package.json" />
+    </packageJsonPaths>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="78" />
-    <option name="y" value="23" />
-    <option name="width" value="1093" />
-    <option name="height" value="681" />
+    <option name="x" value="387" />
+    <option name="y" value="51" />
+    <option name="width" value="948" />
+    <option name="height" value="623" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="033118" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sandbox" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="033118" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="regExProj" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
+              <item name="ReduxSimpleStarter-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
+              <item name="ReduxSimpleStarter-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
+              <item name="ReduxSimpleStarter-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="actions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
+              <item name="ReduxSimpleStarter-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
+              <item name="ReduxSimpleStarter-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="containers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="041618" type="462c0819:PsiDirectoryNode" />
+              <item name="ReduxSimpleStarter-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="reducers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,8 +391,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="weatherlis&#9;null&#9;null&#10;webpack-dev-server.js&#9;FILE&#9;file:///Users/mac/Seungho/sandbox/040618/ReduxSimpleStarter-master/node_modules/webpack-dev-server/bin/webpack-dev-server.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,8 +417,13 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="RunManager">
+    <configuration name="thisTest.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/sandbox/041318/thisTest.html" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.thisTest.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -139,33 +436,42 @@
       <option name="presentableId" value="Default" />
       <updated>1522552138800</updated>
       <workItem from="1522552140134" duration="302000" />
+      <workItem from="1523487283402" duration="1423000" />
+      <workItem from="1523489652369" duration="1898000" />
+      <workItem from="1523565590857" duration="4137000" />
+      <workItem from="1523573671759" duration="3693000" />
+      <workItem from="1523657801273" duration="706000" />
+      <workItem from="1523922417104" duration="10632000" />
+      <workItem from="1523935359194" duration="4000" />
+      <workItem from="1523936660999" duration="283000" />
+      <workItem from="1524863731006" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302000" />
+    <option name="totallyTimeSpent" value="23113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="23" width="1093" height="681" extended-state="0" />
+    <frame x="387" y="51" width="948" height="623" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2492864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19092827" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989071" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32969034" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,15 +481,359 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js</url>
+          <line>16</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/033118/regExProj/index.html">
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="43" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="48" selection-end-line="41" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/containers/search_bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041318/thisTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041318/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/containers/search_bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041118/ReduxSimpleStarter-master/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/041118/ReduxSimpleStarter-master/src/components/app.js" />
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/033118/regExProj/index.html" />
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041118/ReduxSimpleStarter-master/src/index.js" />
+    <entry file="file://$PROJECT_DIR$/041118/ReduxSimpleStarter-master/src/components/app.js" />
+    <entry file="file://$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/components/posts_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041218 ch71/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041318/thisTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041318/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/containers/search_bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041018/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/reducer_weather.js" />
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/weather_list.js" />
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price.js" />
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/google_map.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/search_bar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/reducers/reducer_price.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/041618/ReduxSimpleStarter-master/src/containers/price_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
