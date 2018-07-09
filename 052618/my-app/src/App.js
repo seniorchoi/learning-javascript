@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import VideoButton from "./components/video_button";
 import YTSearch from "youtube-api-search";
 import VideoDetail from './components/video_detail';
+import AdComponent from "./components/adComponent";
 const API_KEY = 'AIzaSyDfqHbdWdMzB_UOH9XJLN1db9qboWEw3us';
 
 class App extends Component {
@@ -43,6 +44,7 @@ class App extends Component {
         </span>
         </div>
         <VideoDetail video = {this.state.selectedVideo}/>
+        <AdComponent/>
       </div>
     );
   }

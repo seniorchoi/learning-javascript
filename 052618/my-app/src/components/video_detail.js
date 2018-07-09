@@ -16,16 +16,6 @@ const VideoDetail = ({video}) => {
               </iframe>
           </div>
       </div>
-        <p className='col-md-2'>I dedicate this website to my dear virgin friends Rafa, Sung, and Dylan, who has always been there for me. Especially Dylan because he is gay.
-          <br/> Sincerely,<br/>
-          Choi
-          <br/><br/>
-          ---------------------------
-          <br/><br/><br/><br/><br/>
-          ad space
-          <br/><br/><br/><br/><br/>
-          ---------------------------
-        </p>
       </div>
     );
 };
